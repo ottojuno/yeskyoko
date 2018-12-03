@@ -8,4 +8,4 @@ bash build.sh
 
 # Run
 
-bash server.sh\
+bash server.sh
