@@ -1,4 +1,4 @@
-##YES 齊藤京子.com
+齊藤京子 Face Recognition Project
 
 # Install
 
