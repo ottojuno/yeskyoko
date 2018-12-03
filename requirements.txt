@@ -1,0 +1,11 @@
+tensorflow
+keras
+setuptools
+matplotlib
+numpy
+pandas
+jupyter
+scikit-learn
+h5py
+requests
+cherrypy
