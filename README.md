@@ -1,6 +1,6 @@
 齊藤京子 Face Recognition Project
 
-(The training data/models are not included so this will not be able to work.)
+(The training data/models are not included so this will not be able to work. The website is currently offline.)
 
 # Install
 
