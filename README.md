@@ -4,7 +4,7 @@
 
 bash fetch-face-predictor.sh\
 bash install-docker.sh\
-bash build.sh\
+bash build.sh
 
 # Run
 
